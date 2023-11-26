@@ -121,7 +121,7 @@ ___
 
 🧝‍♀️[Виктория](<https://github.com/ElPastel/>)
 
-👩‍🚀[Грегорий](<https://github.com/grinmorg/>)
+👩‍🚀[Григорий](<https://github.com/grinmorg/>)
 
 ### КОМАНДА UX/UI
 

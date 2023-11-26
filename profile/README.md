@@ -123,9 +123,9 @@ ___
 
 ### КОМАНДА UX/UI
 
-👩‍🎨 [Анна](<https://www.behance.net/annadoronina1>)
+👩‍🎨 [Анна](<https://www.behance.net/annadoronina1/>)
 
-👩‍🎤 [Александра](<https://www.behance.net/45f9501f>)
+👩‍🎤 [Евгения](<https://www.behance.net/dyomina/>)
 
 [Python]: <https://www.python.org/>
 [Django]: <https://www.djangoproject.com/>

@@ -42,7 +42,7 @@ Cleanpro разработан с использованием следующих
 - [JavaScript] (v.1.8) - целевой язык программирования frontend
 - [React] (v.18.2) - библиотека JavaScript для разработки пользовательских интерфейсов (UI) веб-приложений
 - [Redux] (v.8.1) - библиотека  управления состоянием JavaScript приложений
-- [TypeScript] - язык программирования для веб-разработки, основанный на JavaScrip
+- [TypeScript] - язык программирования для веб-разработки, основанный на JavaScript
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

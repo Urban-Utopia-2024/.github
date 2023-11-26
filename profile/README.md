@@ -99,6 +99,7 @@ docker-compose up --build
 
 ```
 http://localhost:8000/
+http://localhost:8000/api/v1/docs/swagger/
 ```
 
 ___
